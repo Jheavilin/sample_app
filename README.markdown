@@ -5,7 +5,7 @@ This was the README that was really not helpful.  So we are changing it to inclu
 
 Project: samplel-app
 Colour: Red
-
+ once again, to test the $git commit -am "Modified the README file" command
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
