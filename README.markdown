@@ -1,4 +1,11 @@
 == Welcome to Rails
+# ruby on rail tutorial - sample app
+
+This was the README that was really not helpful.  So we are changing it to include the name of the project and my favorite colour.
+
+Project: samplel-app
+Colour: Red
+
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
