@@ -5,11 +5,9 @@ gem 'rails', '3.2.7'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-<<<<<<< HEAD
-gem 'sqlite3'
+# gem 'sqlite3'
 
 
-=======
 gem 'sqlite3-ruby', '1.2.5', :group=>:development
 
 
@@ -27,7 +25,6 @@ group :test do
   gem 'factory_girl_rails', '1.0'  
 end
 
->>>>>>> ee055290bb05ff67d00549f02d57352629c1d724
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
@@ -56,8 +53,6 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
-<<<<<<< HEAD
-=======
 #
 # #Your bundle is complete! Use `bundle show [gemname]` to see where a bundled gem is installed.
 # Post-install message from rspec-core:
@@ -104,4 +99,3 @@ gem 'jquery-rails'
 #   since the last release.
 # 
 # **************************************************
->>>>>>> ee055290bb05ff67d00549f02d57352629c1d724
